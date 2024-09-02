@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://necareysite.pages.dev/sitemap.xml
